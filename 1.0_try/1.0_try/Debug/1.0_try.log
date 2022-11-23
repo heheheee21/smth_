@@ -1,0 +1,5 @@
+﻿  1.0_try.cpp
+  List.cpp
+  Создание кода...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\user\Desktop\ВУЗ\ДОП программирование\4th task\1.0_try\Debug\1.0_try.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
